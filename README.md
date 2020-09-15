@@ -1,2 +1,5 @@
 # hello-world
-This is a pretty sweet repo.
+
+Yo
+
+I'm a chill dude who enjoys video games, working out, and entrepreneurship.
